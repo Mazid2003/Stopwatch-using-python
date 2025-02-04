@@ -25,7 +25,9 @@ A simple and functional digital stopwatch built with Python and Tkinter. This st
 **📌 How It Works:**
 
 1️⃣ Click "Start" to begin tracking time.
+
 2️⃣ Click "Stop" to pause the stopwatch.
+
 3️⃣ Click "Reset" to reset the timer back to 00:00:00.
 
 🔥 This project is great for beginners to understand GUI development using Tkinter while building a useful real-world application!
