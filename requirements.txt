@@ -1,1 +1,23 @@
+1. Tkinter (GUI Library)
 
+Used for creating the graphical user interface (GUI).
+
+Manages windows, buttons, labels, and canvas elements.
+
+2. Time (Time Management)
+
+Provides functions like time.time() to track elapsed time.
+
+Used for stopwatch functionality.
+
+3. Math (Mathematical Operations)
+
+Used for calculating the angle and position of the stopwatch needle.
+
+Functions like math.cos() and math.sin() help in positioning.
+
+Note:
+
+tk is included by default with Python, so you don’t need to install it manually using pip.
+
+time and math are built-in Python modules, so no external installation is required.
