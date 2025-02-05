@@ -1,4 +1,4 @@
-**⏱️ Stopwatch using Python**
+# ⏱️ Stopwatch using Python
 
 A simple and functional digital stopwatch built with Python and Tkinter. This stopwatch allows users to start, stop, and reset time seamlessly using an interactive GUI.
 
