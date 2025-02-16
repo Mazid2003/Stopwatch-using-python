@@ -35,3 +35,8 @@ A simple and functional digital stopwatch built with Python and Tkinter. This st
 💡 Feel free to fork, modify, and improve it!
 
 🚀 Star this repo if you like it! 🌟
+
+**📜 License**
+
+This project is open-source under the MIT License. Feel free to use and
+modify it! 🚀
