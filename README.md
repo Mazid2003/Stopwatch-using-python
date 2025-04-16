@@ -36,6 +36,14 @@ A simple and functional digital stopwatch built with Python and Tkinter. This st
 
 🚀 Star this repo if you like it! 🌟
 
+**Screenshots**
+
+**Output 1**
+
+![screenshot_2025-04-16_10-14-40](https://github.com/user-attachments/assets/bce4154d-a2fc-4b21-b132-5204613e48d1)
+
+![screenshot_2025-04-16_10-15-21](https://github.com/user-attachments/assets/1579b2e9-20b7-418b-b888-b22a0b18e972)
+
 **💬 Want to Collaborate?**
 
 Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
